@@ -5,7 +5,7 @@
 [click here to go to web app](https://olympic-data-analysis-tg7gn7ukltrmvinbawutdi.streamlit.app/))
 
 **web app ui image**
-![Alt Text](Olympic web app ui.png)
+![Alt Text](web_app_UI_image.png)
 
 
 **Dataset Link i used for analysis**
