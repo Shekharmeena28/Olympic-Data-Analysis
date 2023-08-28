@@ -1,10 +1,10 @@
 # Olympic-Data-Analysis
 
 **Olympic web app project link deployed on Streamlit**
-[click here to go to web app]([Your Web App URL](https://olympic-data-analysis-tg7gn7ukltrmvinbawutdi.streamlit.app/))
+[click here to go to web app](https://olympic-data-analysis-tg7gn7ukltrmvinbawutdi.streamlit.app/))
 
 **web app ui image**
-![UI](Olympic web app ui.png)
+[UI](Olympic web app ui.png)
 
 
 **Project Overview**
